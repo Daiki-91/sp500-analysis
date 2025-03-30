@@ -54,7 +54,8 @@ python sp500_analysis.py
 - **matplotlib & seaborn**: トレンドの可視化
 - **移動平均、リターン、基本的な金融指標**: 市場の理解を深めるための分析
 
-![S&P500の分析結果](Figure_1.png)
+![S&P500の分析結果](images/Figure_1.png)
+)
 
 
 ライセンス (License)
